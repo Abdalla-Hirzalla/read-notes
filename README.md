@@ -7,3 +7,5 @@ My three reminders to increase my _growth mindset_ is:
  - Self learning.
  - Set a goal in your mind. 
  - Manage your time. 
+
+### This picture explain how to Shift To A Path Of [Learning and Growth](https://www.techtello.com/wp-content/uploads/2020/06/5-strategies-to-shift-to-growth-mindset.png?x54983).
