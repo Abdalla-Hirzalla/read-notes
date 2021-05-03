@@ -11,6 +11,6 @@ my GitHub page **[Abdalla Hirzalla.](https://github.com/Abdalla-Hirzalla)**
 
 Assaigment|Link
 ----------|-----
-read1     | [Link1](read1.md)
-read2     |[link2](read2.md)
+read1     | [Link1](https://replit.com/@AbdallaHirzalla/reading-notes#read1.md)
+read2     |[link2](https://replit.com/@AbdallaHirzalla/reading-notes#read2.md)
 
