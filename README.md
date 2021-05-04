@@ -11,6 +11,7 @@ my GitHub page **[Abdalla Hirzalla.](https://github.com/Abdalla-Hirzalla)**
 
 Assaigment|Link
 ----------|-----
-Read1 (Growth Mindset)     | [Link1]  (https://replit.com/@AbdallaHirzalla/reading-notes#read1.md)
+Read1 (Growth Mindset)  |[Link1](https://replit.com/@AbdallaHirzalla/reading-notes#read1.md)
 Read2 (Revisions and the Cloud)     |[link2](https://replit.com/@AbdallaHirzalla/reading-notes#read2.md)
 Read3 (Learning Markdown )|[link3](https://replit.com/@AbdallaHirzalla/reading-notes#read3.md)
+Read4 (Structure web pages with HTML)| [link4](https://replit.com/@AbdallaHirzalla/reading-notes#read4.md)
