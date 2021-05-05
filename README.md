@@ -16,3 +16,4 @@ Read2 (Revisions and the Cloud)     |[link2](https://replit.com/@AbdallaHirzalla
 Read3 (Learning Markdown )|[link3](https://replit.com/@AbdallaHirzalla/reading-notes#read3.md)
 Read4 (Structure web pages with HTML)| [link4](https://replit.com/@AbdallaHirzalla/reading-notes#read4.md)
 Read5 (Design web pages with CSS)|[link5](https://replit.com/@AbdallaHirzalla/reading-notes#read5.md)
+Read7 (Programming with JavaScript)|[link6](https://replit.com/@AbdallaHirzalla/reading-notes#read6.md)
