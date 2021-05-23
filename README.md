@@ -18,7 +18,6 @@ Read4 (Structure web pages with HTML).| [Link4](https://replit.com/@AbdallaHirza
 Read5 (Design web pages with CSS).|[Link5](https://replit.com/@AbdallaHirzalla/reading-notes#read5.md)
 Read6 (Programming with JavaScript).|[Link6](https://replit.com/@AbdallaHirzalla/reading-notes#read6.md)
 Read7 (Operators and loops).|[Link7](https://replit.com/@AbdallaHirzalla/reading-notes#read7)
-<<<<<<< HEAD
 Read8 (Functions). | [link8](https://replit.com/@AbdallaHirzalla/reading-notes#read8.md)
 
 
@@ -36,6 +35,5 @@ Read5 ().|[Link5]()
 Read6 ().|[Link6]()
 Read7 ().|[Link7]()
 Read8 ().|[link8]()
-=======
-Read8 (Functions). | [link8](https://replit.com/@AbdallaHirzalla/reading-notes#read8.md)
->>>>>>> 264466546c73a3b4fa3d01e179c347e5d8cb0ca1
+
+
