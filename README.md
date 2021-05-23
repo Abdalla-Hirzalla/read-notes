@@ -27,7 +27,7 @@ Read8 (Functions). | [link8](https://replit.com/@AbdallaHirzalla/reading-notes#r
 
 Assaigment|Link
 ----------|-----
-Read1 ().|[Link1]()
+Read1 (Introductory HTML and JavaScript).|[Link1](https://replit.com/@AbdallaHirzalla/reading-notes#reading1.md)
 Read2 ().|[Link2]()
 Read3 ().|[Link3]()
 Read4 ().|[Link4]()
