@@ -11,14 +11,14 @@ my GitHub page **[Abdalla Hirzalla.](https://github.com/Abdalla-Hirzalla)**
 
 Assaigment|Link
 ----------|-----
-Read1 (Growth Mindset).  |[Link1](https://replit.com/@AbdallaHirzalla/reading-notes#read1.md)
-Read2 (Revisions and the Cloud).     |[Link2](https://replit.com/@AbdallaHirzalla/reading-notes#read2.md)
-Read3 (Learning Markdown ).|[Link3](https://replit.com/@AbdallaHirzalla/reading-notes#read3.md)
-Read4 (Structure web pages with HTML).| [Link4](https://replit.com/@AbdallaHirzalla/reading-notes#read4.md)
-Read5 (Design web pages with CSS).|[Link5](https://replit.com/@AbdallaHirzalla/reading-notes#read5.md)
-Read6 (Programming with JavaScript).|[Link6](https://replit.com/@AbdallaHirzalla/reading-notes#read6.md)
-Read7 (Operators and loops).|[Link7](https://replit.com/@AbdallaHirzalla/reading-notes#read7)
-Read8 (Functions). | [link8](https://replit.com/@AbdallaHirzalla/reading-notes#read8.md)
+Read1 (Growth Mindset).  |[Link1](102/read1.md)
+Read2 (Revisions and the Cloud).     |[Link2](102/read2.md)
+Read3 (Learning Markdown ).|[Link3](102/read3.md)
+Read4 (Structure web pages with HTML).| [Link4](102/read4.md)
+Read5 (Design web pages with CSS).|[Link5](102/read5.md)
+Read6 (Programming with JavaScript).|[Link6](102/read6.md)
+Read7 (Operators and loops).|[Link7](102/read7.md)
+Read8 (Functions). | [link8](102/read8.md)
 
 
 # reading-note201
