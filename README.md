@@ -28,7 +28,7 @@ Read8 (Functions). | [link8](102/read8.md)
 Assaigment|Link
 ----------|-----
 Read1 (Introductory HTML and JavaScript).|[Link1](201/read.md)
-Read2 (Html Lists, Control Flow with JS, and the CSS Box).|[Link2](201/read3.md)
+Read2 (Html Lists, Control Flow with JS, and the CSS Box).|[Link2](201/read2.md)
 Read3 ().|[Link3]()
 Read4 ().|[Link4]()
 Read5 ().|[Link5]()
