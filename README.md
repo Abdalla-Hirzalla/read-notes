@@ -30,7 +30,7 @@ Assaigment|Link
 Read1 (Introductory HTML and JavaScript).|[Link1](201/read.md)
 Read2 (Html Lists, Control Flow with JS, and the CSS Box).|[Link2](201/read2.md)
 Read3 (HTML Links, JS Functions).|[Link3](201/read3.md)
-Read4 ().|[Link4]()
+Read4 (HTML Images; CSS Color & Text).|[Link4](201/read4.md)
 Read5 ().|[Link5]()
 Read6 ().|[Link6]()
 Read7 ().|[Link7]()
