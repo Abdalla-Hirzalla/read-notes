@@ -1,12 +1,12 @@
- # Object-Oriented Programming, HTML Tables
+ #  Object-Oriented Programming, HTML Tables
 
- ## Domain Modeling:
+##  Domain Modeling:
 
- Domain modeling is the process of creating a conceptual model in code for a specific problem. A model describes the various entities, their attributes and behaviors, as well as the constraints that govern the problem domain. An entity that stores data in properties and encapsulates behaviors in methods is commonly referred to as an object-oriented model.
+Domain modeling is the process of creating a conceptual model in code for a specific problem. A model describes the various entities, their attributes and behaviors, as well as the constraints that govern the problem domain. An entity that stores data in properties and encapsulates behaviors in methods is commonly referred to as an object-oriented model.
 
 
 # Tables :
- A table represents information in a grid format.Examples of tables include financial reports, TV schedules, and sports results.
+A table represents information in a grid format.Examples of tables include financial reports, TV schedules, and sports results.
 
 ## Basic Table Structure:
 
