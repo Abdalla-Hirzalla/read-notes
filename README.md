@@ -27,13 +27,13 @@ Read8 (Functions). | [link8](102/read8.md)
 
 Assaigment|Link
 ----------|-----
-Read1 (Introductory HTML and JavaScript).|[Link1](201/read.md)
-Read2 (Html Lists, Control Flow with JS, and the CSS Box).|[Link2](201/read2.md)
-Read3 (HTML Links, JS Functions).|[Link3](201/read3.md)
-Read4 (HTML Images; CSS Color & Text).|[Link4](201/read4.md)
-Read5 (Problem Domain, Objects, and the DOM).|[Link5](201/read5.md)
-Read6 ().|[Link6]()
-Read7 ().|[Link7]()
-Read8 ().|[link8]()
+Read1 & Read2 (Introductory HTML and JavaScript).|[Link1](201/read.md)
+Read3 (Html Lists, Control Flow with JS, and the CSS Box).|[Link2](201/read2.md)
+Read4 (HTML Links, JS Functions).|[Link3](201/read3.md)
+Read5 (HTML Images; CSS Color & Text).|[Link4](201/read4.md)
+Read6 (Problem Domain, Objects, and the DOM).|[Link5](201/read5.md)
+Read7 ().|[Link6]()
+Read8 ().|[Link7]()
+Read9 ().|[link8]()
 
 
