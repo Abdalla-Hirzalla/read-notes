@@ -33,7 +33,7 @@ Read4 (HTML Links, JS Functions).|[Link3](201/read3.md)
 Read5 (HTML Images; CSS Color & Text).|[Link4](201/read4.md)
 Read6 (Problem Domain, Objects, and the DOM).|[Link5](201/read5.md)
 Read7 ( Object-Oriented Programming, HTML Tables).|[Link6](201/read6.md)
-Read8 ().|[Link7]()
+Read8 (More CSS Layout).|[Link7](201/read7.md)
 Read9 ().|[link8]()
 
 
