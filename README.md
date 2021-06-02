@@ -35,5 +35,5 @@ Read6 (Problem Domain, Objects, and the DOM).|[Link5](201/read5.md)
 Read7 ( Object-Oriented Programming, HTML Tables).|[Link6](201/read6.md)
 Read8 (More CSS Layout).|[Link7](201/read7.md)
 Read9 (Forms and JS Events).|[link8](201/read8.md)
-
+Read10 (Debugging).|[link8](201/read9.md)
 
