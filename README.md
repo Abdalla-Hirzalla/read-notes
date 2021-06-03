@@ -18,7 +18,7 @@ Read4 (Structure web pages with HTML).| [Link4](102/read4.md)
 Read5 (Design web pages with CSS).|[Link5](102/read5.md)
 Read6 (Programming with JavaScript).|[Link6](102/read6.md)
 Read7 (Operators and loops).|[Link7](102/read7.md)
-Read8 (Functions). | [link8](102/read8.md)
+Read8 (Functions). | [Link8](102/read8.md)
 
 
 # reading-note201
@@ -34,6 +34,7 @@ Read5 (HTML Images; CSS Color & Text).|[Link4](201/read4.md)
 Read6 (Problem Domain, Objects, and the DOM).|[Link5](201/read5.md)
 Read7 ( Object-Oriented Programming, HTML Tables).|[Link6](201/read6.md)
 Read8 (More CSS Layout).|[Link7](201/read7.md)
-Read9 (Forms and JS Events).|[link8](201/read8.md)
-Read10 (Debugging).|[link8](201/read9.md)
+Read9 (Forms and JS Events).|[Link8](201/read8.md)
+Read10 (Debugging).|[Link9](201/read9.md)
+Read11 (Audio, Video, Images).|[Link10](201/read10.md)
 
