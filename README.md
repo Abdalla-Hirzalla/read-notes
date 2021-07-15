@@ -1,15 +1,18 @@
 # Introduction about me:
-Good evening everyone
+Hello everyone
 My name is Abdallah Hirzalla, I'm 24 years old.
 My major is E-business and commerce in Petra university.
 I take this course to increase my knowledge in coding and learn more coding languages .
-My laptop version is intel core i5.
+
 
 my GitHub page **[Abdalla Hirzalla.](https://github.com/Abdalla-Hirzalla)**
 
+
+
+# Amman 102 course
 ## Table of contents :
 
-Assaigment|Link
+Assignment|Link
 ----------|-----
 Read1 (Growth Mindset).  |[Link1](102/read1.md)
 Read2 (Revisions and the Cloud).     |[Link2](102/read2.md)
@@ -21,11 +24,11 @@ Read7 (Operators and loops).|[Link7](102/read7.md)
 Read8 (Functions). | [Link8](102/read8.md)
 
 
-# reading-note201
+# Amman 201 course
 
 ## Table of contents :
 
-Assaigment|Link
+Assignment|Link
 ----------|-----
 Read1 & Read2 (Introductory HTML and JavaScript).|[Link1,2](201/read.md)
 Read3 (Html Lists, Control Flow with JS, and the CSS Box).|[Link3](201/read2.md)
@@ -41,3 +44,22 @@ Read12 ( Chart.js, Canvas).|[Link12](201/read11.md)
 Read13 ( Local Storage ).|[Link13](201/read12.md)
 Read14A ( CSS Transforms and Animations ).|[Link14a](201/read14a.md)
 Read14B ( What Google Learned About Teams ).|[Link14b](201/read14b.md)
+
+
+
+# Amman 301 course
+
+## Table of contents :
+
+Assignment|Link
+----------|-----
+Read1 ().|[Link1]()
+Read2 ().|[Link2]()
+Read3 ().|[Link3]()
+Read4 ().|[Link4]()
+Read5 ().|[Link5]()
+Read6 ().|[Link6]()
+Read7 ().|[Link7]()
+Read8 ().|[Link8]()
+Read9 ().|[Link9]()
+Read10 ().|[Link10]()
