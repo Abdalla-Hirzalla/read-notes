@@ -54,7 +54,7 @@ Read14B ( What Google Learned About Teams ).|[Link14b](201/read14b.md)
 Assignment|Link
 ----------|-----
 Read1 (Introduction to React and Components).|[Link1](301/read1.md)
-Read2 ().|[Link2]()
+Read2 (State and Props).|[Link2](301/read2.md)
 Read3 ().|[Link3]()
 Read4 ().|[Link4]()
 Read5 ().|[Link5]()
