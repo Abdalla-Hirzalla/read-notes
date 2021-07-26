@@ -1,6 +1,6 @@
 # Passing Functions as Props
 
- ### In JavaScript 
+ ## In JavaScript 
  spread syntax refers to the use of an ellipsis of three dots (…) to expand an iterable object into the list of arguments.When (...arr) is used in the function call, it ‘expands’ an iterable object arr into the list of arguments.The spread operator was added to JavaScript in **ES6 (ES2015)**, just like the rest parameters, which have the same syntax: **three magic dots ….**The … spread operator is useful for many different routine tasks in JavaScript, including the following:
 -  Copying an array
 -  Concatenating or combining arrays
@@ -29,7 +29,7 @@ One of the best ways to understand the use of spread operator in JavaScript is t
 - **Keys**
     - Keys help React identify which items have changed, are added, or are removed. Keys should be given to the elements inside the array to give the elements a stable identity.
 
-    
+
 
 
 
